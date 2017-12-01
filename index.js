@@ -16,4 +16,6 @@ function destructivelyRemoveLastKitten(name) {
   return kittens;
 }
 
-function de
+function destructivelyRemoveFirstKitten(name) {
+  
+}
